@@ -10,3 +10,4 @@ All images are owned by this github, specifically owned by FengTing Guo (Alex).
 
 ![dinosaur](https://github.com/TrueFengTingGuo/Artwork-Practice/blob/master/Color_Panting_Experiment.jpg)
 
+![lol_zed](https://github.com/TrueFengTingGuo/My-Digital-Painitng/blob/master/IMG_4554.JPG)
