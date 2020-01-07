@@ -7,8 +7,8 @@ All images are owned by this github, specifically owned by FengTing Guo (Alex).
 
 # My current painting highlights
 
-Real world Objects!
-[Real world Objects](https://github.com/TrueFengTingGuo/My-Digital-Painitng/blob/master/IMG_4518.JPG)
+Real world Objects
+![Real world Objects](https://github.com/TrueFengTingGuo/My-Digital-Painitng/blob/master/IMG_4518.JPG)
 
 Dinosaur
 ![dinosaur](https://github.com/TrueFengTingGuo/Artwork-Practice/blob/master/Color_Panting_Experiment.jpg)
