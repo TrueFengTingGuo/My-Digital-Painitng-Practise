@@ -1,5 +1,5 @@
-# Artwork Practice
-This is a place where I post my recent artwork projects
+# Digtial Painting Practice
+This is a place where I post my recent artwork projects. It involves full color painting, character design, concept about ingame object concept and game enviorment.
 
 # License 
 All images are owned by this github, specifically owned by FengTing Guo (Alex).
