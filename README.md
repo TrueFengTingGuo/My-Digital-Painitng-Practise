@@ -11,6 +11,10 @@ I am currently a game development stream student. Would it be too odd I can't de
 All images are owned by this repository, specifically owned by FengTing Guo (Alex).
 **(Do not download them, and use them for any uses without my premission)**
 
+### My Current Goal
+- [ ] Getting Start on my in-game boss design.
+- [ ] Rough Painting of my in-game boss design.
+
 # My current painting highlights
 
 Real world Objects
