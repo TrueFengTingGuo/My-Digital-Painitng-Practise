@@ -7,5 +7,5 @@ All images are owned by this repository, specifically owned by FengTing Guo (Ale
 
 
 # My Works
-Robot Design One ![Robot Design One](https://github.com/TrueFengTingGuo/My-Digital-Painitng/blob/master/Character_BossDesign/TowerDefenceGame/Character%20Design/Robot_concept_1.jpg)
+Robot Design One(Combining ideas from other artist) ![Robot Design One](https://github.com/TrueFengTingGuo/My-Digital-Painitng/blob/master/Character_BossDesign/TowerDefenceGame/Character%20Design/Robot_concept_1.jpg)
 
