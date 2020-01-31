@@ -1,5 +1,5 @@
 # Digtial Painting Practice
-This is a place where I post my recent artwork projects. It involves full color paintings.
+This is a place where I post my random artwork projects. It involves full color paintings.
 
 ### Why do I post here?
 Cause I am a COMPUTER SCIENCE STUDENT, there is no better place for me to post my recent projects.
