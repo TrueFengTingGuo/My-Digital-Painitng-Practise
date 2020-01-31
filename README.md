@@ -1,5 +1,5 @@
 # Digtial Painting Practice
-This is a place where I post my recent artwork projects. It involves full color painting, character design, concept about ingame object and game enviorment.
+This is a place where I post my recent artwork projects. It involves full color paintings.
 
 ### Why do I post here?
 Cause I am a COMPUTER SCIENCE STUDENT, there is no better place for me to post my recent projects.
@@ -14,9 +14,6 @@ https://procreate.art
 All images are owned by this repository, specifically owned by FengTing Guo (Alex).
 **(Do not download them, and use them for any uses without my premission)**
 
-# My Current Goal
-- [ ] Getting Start on my in-game boss design.
-- [ ] Rough Painting of my in-game boss design.
 
 # My current painting highlights
 
