@@ -15,13 +15,7 @@ All images are owned by this repository, specifically owned by FengTing Guo (Ale
 **(Do not download them, and use them for any uses without my premission)**
 
 
-# My current painting highlights
+# My current painting goal
+Human Portrait
 
-Real world Objects
-![Real world Objects](https://github.com/TrueFengTingGuo/My-Digital-Painitng/blob/master/IMG_4518.JPG)
 
-Dinosaur
-![dinosaur](https://github.com/TrueFengTingGuo/Artwork-Practice/blob/master/Color_Panting_Experiment.jpg)
-
-League of Legends Zed imitation
-![lol_zed](https://github.com/TrueFengTingGuo/My-Digital-Painitng/blob/master/IMG_4554.JPG)
